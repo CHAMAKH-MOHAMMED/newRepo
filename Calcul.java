@@ -8,7 +8,7 @@ public class Calcul {
     }
     public static int multiplication(int a, int b) {
 
-        //test diff
+        
         return a * b;
     }
     public static int division(int a, int b) {
