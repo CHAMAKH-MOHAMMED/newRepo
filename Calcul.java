@@ -7,7 +7,7 @@ public class Calcul {
         return a - b;
     }
     public static int multiplication(int a, int b) {
-
+        if(b==0) return 0;
         //test diff
         return a * b;
     }
