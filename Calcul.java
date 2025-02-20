@@ -4,7 +4,7 @@ public class Calcul {
         return a + b;
     }
     public static int soustraction(int a, int b) {
-        if(b==0) return a;
+        if(b==0) return b;
         return a - b;
     }
     public static int multiplication(int a, int b) {
